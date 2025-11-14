@@ -1,2 +1,5 @@
-# farcaster-activity-mini-app
-Check farcaster activity 
+farcaster-activity-mini-app/
+  pages/
+    index.tsx
+  package.json
+  next.config.js
